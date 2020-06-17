@@ -19,6 +19,7 @@ repositories {
 }
 
 dependencies {
+	implementation 'org.springframework.statemachine:spring-statemachine-core:2.2.0.RELEASE'
 	implementation 'org.springframework.boot:spring-boot-starter-webflux'
 	compileOnly 'org.projectlombok:lombok'
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
