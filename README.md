@@ -1,3 +1,3 @@
 # fusion
-StateMachine Engine
-solution to high coupling caused by complex business logic
+StateMachine Engine & Splitter,
+solution of high coupling caused by complex business logic.
